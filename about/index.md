@@ -26,15 +26,4 @@ Our Team "ATOM"s main objective is to make a Android Application which supports 
 We chose to have our team name as “ATOM” because it forms the foundation of matter in this world and is the most minute detail of all physical things existing. Similarly, we need to learn the basics of programming concepts which is the basic aim of this course “Introduction to Software engineering for Engineers”. From the android application perspective, the ATOM application binds together all the activities that the user performs so that it becomes a perfect activity tracker for the user which in turns increases the Customer Satisfaction Index. 
 
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
