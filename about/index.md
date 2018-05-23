@@ -10,6 +10,8 @@ comments: false
 	<img src="/images/atom.png">
 </figure>
 
+![atom]({{site.baseurl}}/images/atom.png "Remind the deadlines"){" :align="center"}
+
 ## Introduction
 
 ATOM, as the name suggets is the building blocks of all matter in the world and form the basis of foundation of all existant. We believe this course " Introduction to Software engineering for engineers" as a perfect course for building the basics and foundation in programming skills which would help us to learn more higher levels of programming in later stages of career.The bonding between the atoms are so powerful that it's nearly impossible to split them just like the bonding among ourselves within the team, from the start till the end. We have always been benefited and acquire enomorous amount of knowledge from the practical works than the mere theoretical course of study which being one of the most important highlight of this course lead us to take the decision to choose this course.
