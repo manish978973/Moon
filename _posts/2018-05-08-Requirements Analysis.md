@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Requirements Analysis"
+date: 2018-05-08
+excerpt: "How we gathered and analysed requirements."
+---
+
 <u>Requirements Gathering:</u>
 
  {: .center}
