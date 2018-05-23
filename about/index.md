@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-	<img src="https://github.com/DBSE-teaching/isee2018-ATOM/blob/master/docs/images/atom.png">
+	<img src="/images/atom.png">
 </figure>
 
 ## Introduction
