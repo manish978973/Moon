@@ -6,7 +6,7 @@ date: 2018-05-18
 comments: false
 ---
 
-![atom]({{site.baseurl}}/images/atom.png "Team Logo")
+![atom]({{site.baseurl}}/images/atom.png "Team Logo"){:height="75%" width="80%"} 
 
 ## Introduction
 
