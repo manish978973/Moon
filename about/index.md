@@ -6,11 +6,7 @@ date: 2018-05-18
 comments: false
 ---
 
-<figure>
-	<img src="/images/atom.png">
-</figure>
-
-![atom]({{site.baseurl}}/images/atom.png "Remind the deadlines"){" :align="center"}
+![atom]({{site.baseurl}}/images/atom.png "Team Logo")
 
 ## Introduction
 
